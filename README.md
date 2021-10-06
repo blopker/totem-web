@@ -1,6 +1,6 @@
 Totem-web
 ===
-Site for [](heytotem.com).
+Site for [heytotem.com](https://www.heytotem.com).
 
 Make sure the Firebase CLI is installed.
 
