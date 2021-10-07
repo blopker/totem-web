@@ -1,0 +1,22 @@
+{
+  "name": "totem-web",
+  "version": "1.0.0",
+  "description": "Totem-web === Site for [heytotem.com](https://www.heytotem.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blopker/totem-web.git"
+  },
+  "author": "",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/blopker/totem-web/issues"
+  },
+  "homepage": "https://github.com/blopker/totem-web#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
