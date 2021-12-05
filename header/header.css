@@ -1,0 +1,38 @@
+
+  
+  
+  body {
+    min-height: 100vh;
+  }
+
+  .content{
+      height: 10000px;
+  }
+  .header {
+      height: 1000px;
+      background: linear-gradient(
+        to bottom,
+        hsl(var(--hue), 95%, 84%),
+        hsl(var(--hue), 95%, 99%)
+      );
+  }
+  
+  .orb-canvas {
+    /* position: fixed; */
+    /* top: 0; */
+    /* left: 0; */
+    /* width: 100%;  */
+    /* height: 100%; */
+    /* pointer-events: none; */
+    /* z-index: -1; */
+  }
+
+  <style>
+article section:first-of-type .section-background-content{
+  background: linear-gradient(
+        to bottom,
+        hsl(var(--hue), 95%, 84%),
+        hsl(var(--hue), 100%, 100%)
+      );
+  }
+</style>
